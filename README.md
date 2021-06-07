@@ -10,10 +10,10 @@ This is a sample project to start with Facebook authentication using nodeJS.
 ### How to start 
 
 1. Clone the repository
-2. Go to the directory `FacebookAuthenticationPassport`
+2. Go to the directory https://github.com/ArslanRama/Nodejs_Facebook_Auth_Passport
 
 ```
-cd FacebookAuthenticationPassport\
+cd Nodejs_Facebook_Auth_Passport\
 ```
 3. Enter the follwoing command 
 

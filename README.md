@@ -1,5 +1,7 @@
 ## Facebook login using passport and node JS.
 
+![mockup](passport.png)
+
 This is a sample project to start with Facebook authentication using nodeJS. 
 
 ### How to start 

@@ -1,7 +1,7 @@
 import { BehaviorSubject } from 'rxjs';
 import axios from 'axios';
 
-import { history } from '_helpers';
+import { history } from 'helpers';
 
 const baseUrl = `${process.env.REACT_APP_API_URL}/accounts`;
 const accountSubject = new BehaviorSubject(null);

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
-import { accountService } from '_services';
+import { accountService } from 'services';
 
 function Home() {
     const [mounted, setMounted] = useState(false);

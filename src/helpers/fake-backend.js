@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-import { accountService } from '_services';
+import { accountService } from 'services';
 
 // array in local storage for accounts
 const accountsKey = 'react-facebook-login-accounts';

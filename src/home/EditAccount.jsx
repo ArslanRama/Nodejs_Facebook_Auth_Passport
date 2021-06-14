@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useForm } from "react-hook-form";
 
-import { accountService } from '_services';
+import { accountService } from 'services';
 
 function EditAccount({ history, match }) {
     const { id } = match.params;

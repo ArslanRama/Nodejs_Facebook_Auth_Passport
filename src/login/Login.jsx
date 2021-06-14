@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 
-import { accountService } from '_services';
+import { accountService } from 'services';
 
 function Login({ history }) {
     useEffect(() => {

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
 
-import { accountService } from '_services';
+import { accountService } from 'services';
 
 function Nav() {
     const [account, setAccount] = useState(null);

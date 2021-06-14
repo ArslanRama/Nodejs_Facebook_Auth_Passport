@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Switch, Redirect, useLocation } from 'react-router-dom';
 
-import { Nav, PrivateRoute } from '_components';
+import { Nav, PrivateRoute } from 'components';
 import { Home } from 'home/Home';
 import { EditAccount } from 'home/EditAccount';
 import { Login } from 'login/Login';

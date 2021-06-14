@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-import { accountService } from '_services';
+import { accountService } from 'services';
 
 export function jwtInterceptor() {
     axios.interceptors.request.use(request => {

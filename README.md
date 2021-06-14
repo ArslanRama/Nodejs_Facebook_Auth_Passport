@@ -1,3 +1,3 @@
 # Nodejs_Facebook_Auth_Passport
 
-![Demo](public/login.gif)
+![Demo](public/logindemo.gif)
